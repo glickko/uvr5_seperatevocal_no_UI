@@ -1,5 +1,5 @@
 
-##online seperate music-vocal from youtube or upload from local drive.
+##online seperate music-vocal from youtube link or upload from local drive.
 
 
 thanks to Eddycrack864
